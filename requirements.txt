@@ -1,0 +1,6 @@
+qrcode[pillow]==7.4.2
+Pillow==10.0.1
+opencv-python==4.8.1.78
+numpy==1.24.3
+svgwrite==1.4.3
+reportlab==4.0.4
